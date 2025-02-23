@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {},
     container: {
-      center: false,
+      center: true,
     },
   },
   plugins: [],
